@@ -10,10 +10,11 @@ def eda(df, name, id='id'):
     print('Información general')
     print(df.info())
     # Check duplicates
-    duplicates = df.duplicates()
-    fuzzyDuplicates = df.duplicates(id)
+    duplicates = df.duplicated()
     print(f'Número de duplicados generales: {duplicates.sum()}')
-    print(f'Número de duplicados engañosos: {fuzzyDuplicates.sum()}')
+    if id is not None:
+        fuzzyDuplicates = df.duplicated(id)
+        print(f'Número de duplicados engañosos: {fuzzyDuplicates.sum()}')
     #Check for nan values existence.
     print('Valores faltantes por cada columna')
     print(df.isna().sum())
