@@ -3,3 +3,4 @@
 *.swp
 *.log
 Report/
+__pycache__/
