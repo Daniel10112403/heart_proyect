@@ -52,6 +52,6 @@ To set up the project environment, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/Daniel10112403/heart_proyect
    cd heart-disease-prediction
 

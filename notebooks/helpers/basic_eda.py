@@ -19,6 +19,19 @@ def eda(df, name, id:str = None):
     print('Valores faltantes por cada columna')
     print(df.isna().sum())
 # test function
+
+def statistical_information(df: pd.DataFrame, 
+                            columns:list = None ):
+    if columns is None:
+        columns = df.columns
+    for i in columns:
+        df[i].describe()
+        print('='*10)
+        print(f'Información de la la columna {i}')
+        print(df[i].describe())
+        print('='*10)
+
+
 if __name__ == '__main__':
     
     raw_patients = pd.read_csv('C:/Users/danie/Desktop/master/Data_Science_fundamentals/heart_disease_proyect/data/raw/raw_medical_records.csv')
