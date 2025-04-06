@@ -31,7 +31,13 @@ def statistical_information(df: pd.DataFrame,
         print(df[i].describe())
         print('='*10)
 
-
+def separate_target(df: pd.DataFrame,
+                    target_column: str):
+    characteristics = df.drop(target_column, axis=1)
+    target = df[target_column]
+    return characteristics, target
+def evaluate_model(model, **kwargs):
+    pass
 if __name__ == '__main__':
     
     raw_patients = pd.read_csv('C:/Users/danie/Desktop/master/Data_Science_fundamentals/heart_disease_proyect/data/raw/raw_medical_records.csv')

@@ -1,0 +1,298 @@
+age,sex,chest_pain_type,resting_blood_pressure,serum_cholesterol,fasting_blood_sugar_g_120,resting_egc_results,maximum_heart_rate,exersize_induced_angina,st_depression,slope_of_peak_exercise_st_segment,major_vessels,thalassemia,target
+63,male,typical angina,145,233,True,left_ventricular_hypertrophy,150,False,2.3,downsloping,0.0,fixed_defect,0
+67,male,asymptomatic,160,286,False,left_ventricular_hypertrophy,108,True,1.5,flat,3.0,normal,2
+67,male,asymptomatic,120,229,False,left_ventricular_hypertrophy,129,True,2.6,flat,2.0,reversible_defect,1
+37,male,non-anginal pain,130,250,False,normal,187,False,3.5,downsloping,0.0,normal,0
+41,female,atypical angina,130,204,False,left_ventricular_hypertrophy,172,False,1.4,upsloping,0.0,normal,0
+56,male,atypical angina,120,236,False,normal,178,False,0.8,upsloping,0.0,normal,0
+62,female,asymptomatic,140,268,False,left_ventricular_hypertrophy,160,False,3.6,downsloping,2.0,normal,3
+57,female,asymptomatic,120,354,False,normal,163,True,0.6,upsloping,0.0,normal,0
+63,male,asymptomatic,130,254,False,left_ventricular_hypertrophy,147,False,1.4,flat,1.0,reversible_defect,2
+53,male,asymptomatic,140,203,True,left_ventricular_hypertrophy,155,True,3.1,downsloping,0.0,reversible_defect,1
+57,male,asymptomatic,140,192,False,normal,148,False,0.4,flat,0.0,fixed_defect,0
+56,female,atypical angina,140,294,False,left_ventricular_hypertrophy,153,False,1.3,flat,0.0,normal,0
+56,male,non-anginal pain,130,256,True,left_ventricular_hypertrophy,142,True,0.6,flat,1.0,fixed_defect,2
+44,male,atypical angina,120,263,False,normal,173,False,0.0,upsloping,0.0,reversible_defect,0
+52,male,non-anginal pain,172,199,True,normal,162,False,0.5,upsloping,0.0,reversible_defect,0
+57,male,non-anginal pain,150,168,False,normal,174,False,1.6,upsloping,0.0,normal,0
+48,male,atypical angina,110,229,False,normal,168,False,1.0,downsloping,0.0,reversible_defect,1
+54,male,asymptomatic,140,239,False,normal,160,False,1.2,upsloping,0.0,normal,0
+48,female,non-anginal pain,130,275,False,normal,139,False,0.2,upsloping,0.0,normal,0
+49,male,atypical angina,130,266,False,normal,171,False,0.6,upsloping,0.0,normal,0
+64,male,typical angina,110,211,False,left_ventricular_hypertrophy,144,True,1.8,flat,0.0,normal,0
+58,female,typical angina,150,283,True,left_ventricular_hypertrophy,162,False,1.0,upsloping,0.0,normal,0
+58,male,atypical angina,120,284,False,left_ventricular_hypertrophy,160,False,1.8,flat,0.0,normal,1
+58,male,non-anginal pain,132,224,False,left_ventricular_hypertrophy,173,False,3.2,upsloping,2.0,reversible_defect,3
+60,male,asymptomatic,130,206,False,left_ventricular_hypertrophy,132,True,2.4,flat,2.0,reversible_defect,4
+50,female,non-anginal pain,120,219,False,normal,158,False,1.6,flat,0.0,normal,0
+58,female,non-anginal pain,120,340,False,normal,172,False,0.0,upsloping,0.0,normal,0
+66,female,typical angina,150,226,False,normal,114,False,2.6,downsloping,0.0,normal,0
+43,male,asymptomatic,150,247,False,normal,171,False,1.5,upsloping,0.0,normal,0
+40,male,asymptomatic,110,167,False,left_ventricular_hypertrophy,114,True,2.0,flat,0.0,reversible_defect,3
+69,female,typical angina,140,239,False,normal,151,False,1.8,upsloping,2.0,normal,0
+60,male,asymptomatic,117,230,True,normal,160,True,1.4,upsloping,2.0,reversible_defect,2
+64,male,non-anginal pain,140,335,False,normal,158,False,0.0,upsloping,0.0,normal,1
+59,male,asymptomatic,135,234,False,normal,161,False,0.5,flat,0.0,reversible_defect,0
+44,male,non-anginal pain,130,233,False,normal,179,True,0.4,upsloping,0.0,normal,0
+42,male,asymptomatic,140,226,False,normal,178,False,0.0,upsloping,0.0,normal,0
+43,male,asymptomatic,120,177,False,left_ventricular_hypertrophy,120,True,2.5,flat,0.0,reversible_defect,3
+57,male,asymptomatic,150,276,False,left_ventricular_hypertrophy,112,True,0.6,flat,1.0,fixed_defect,1
+55,male,asymptomatic,132,353,False,normal,132,True,1.2,flat,1.0,reversible_defect,3
+61,male,non-anginal pain,150,243,True,normal,137,True,1.0,flat,0.0,normal,0
+65,female,asymptomatic,150,225,False,left_ventricular_hypertrophy,114,False,1.0,flat,3.0,reversible_defect,4
+40,male,typical angina,140,199,False,normal,178,True,1.4,upsloping,0.0,reversible_defect,0
+71,female,atypical angina,160,302,False,normal,162,False,0.4,upsloping,2.0,normal,0
+59,male,non-anginal pain,150,212,True,normal,157,False,1.6,upsloping,0.0,normal,0
+61,female,asymptomatic,130,330,False,left_ventricular_hypertrophy,169,False,0.0,upsloping,0.0,normal,1
+58,male,non-anginal pain,112,230,False,left_ventricular_hypertrophy,165,False,2.5,flat,1.0,reversible_defect,4
+51,male,non-anginal pain,110,175,False,normal,123,False,0.6,upsloping,0.0,normal,0
+50,male,asymptomatic,150,243,False,left_ventricular_hypertrophy,128,False,2.6,flat,0.0,reversible_defect,4
+65,female,non-anginal pain,140,417,True,left_ventricular_hypertrophy,157,False,0.8,upsloping,1.0,normal,0
+53,male,non-anginal pain,130,197,True,left_ventricular_hypertrophy,152,False,1.2,downsloping,0.0,normal,0
+41,female,atypical angina,105,198,False,normal,168,False,0.0,upsloping,1.0,normal,0
+65,male,asymptomatic,120,177,False,normal,140,False,0.4,upsloping,0.0,reversible_defect,0
+44,male,asymptomatic,112,290,False,left_ventricular_hypertrophy,153,False,0.0,upsloping,1.0,normal,2
+44,male,atypical angina,130,219,False,left_ventricular_hypertrophy,188,False,0.0,upsloping,0.0,normal,0
+60,male,asymptomatic,130,253,False,normal,144,True,1.4,upsloping,1.0,reversible_defect,1
+54,male,asymptomatic,124,266,False,left_ventricular_hypertrophy,109,True,2.2,flat,1.0,reversible_defect,1
+50,male,non-anginal pain,140,233,False,normal,163,False,0.6,flat,1.0,reversible_defect,1
+41,male,asymptomatic,110,172,False,left_ventricular_hypertrophy,158,False,0.0,upsloping,0.0,reversible_defect,1
+54,male,non-anginal pain,125,273,False,left_ventricular_hypertrophy,152,False,0.5,downsloping,1.0,normal,0
+51,male,typical angina,125,213,False,left_ventricular_hypertrophy,125,True,1.4,upsloping,1.0,normal,0
+51,female,asymptomatic,130,305,False,normal,142,True,1.2,flat,0.0,reversible_defect,2
+46,female,non-anginal pain,142,177,False,left_ventricular_hypertrophy,160,True,1.4,downsloping,0.0,normal,0
+58,male,asymptomatic,128,216,False,left_ventricular_hypertrophy,131,True,2.2,flat,3.0,reversible_defect,1
+54,female,non-anginal pain,135,304,True,normal,170,False,0.0,upsloping,0.0,normal,0
+54,male,asymptomatic,120,188,False,normal,113,False,1.4,flat,1.0,reversible_defect,2
+60,male,asymptomatic,145,282,False,left_ventricular_hypertrophy,142,True,2.8,flat,2.0,reversible_defect,2
+60,male,non-anginal pain,140,185,False,left_ventricular_hypertrophy,155,False,3.0,flat,0.0,normal,1
+54,male,non-anginal pain,150,232,False,left_ventricular_hypertrophy,165,False,1.6,upsloping,0.0,reversible_defect,0
+59,male,asymptomatic,170,326,False,left_ventricular_hypertrophy,140,True,3.4,downsloping,0.0,reversible_defect,2
+46,male,non-anginal pain,150,231,False,normal,147,False,3.6,flat,0.0,normal,1
+65,female,non-anginal pain,155,269,False,normal,148,False,0.8,upsloping,0.0,normal,0
+67,male,asymptomatic,125,254,True,normal,163,False,0.2,flat,2.0,reversible_defect,3
+62,male,asymptomatic,120,267,False,normal,99,True,1.8,flat,2.0,reversible_defect,1
+65,male,asymptomatic,110,248,False,left_ventricular_hypertrophy,158,False,0.6,upsloping,2.0,fixed_defect,1
+44,male,asymptomatic,110,197,False,left_ventricular_hypertrophy,177,False,0.0,upsloping,1.0,normal,1
+65,female,non-anginal pain,160,360,False,left_ventricular_hypertrophy,151,False,0.8,upsloping,0.0,normal,0
+60,male,asymptomatic,125,258,False,left_ventricular_hypertrophy,141,True,2.8,flat,1.0,reversible_defect,1
+51,female,non-anginal pain,140,308,False,left_ventricular_hypertrophy,142,False,1.5,upsloping,1.0,normal,0
+48,male,atypical angina,130,245,False,left_ventricular_hypertrophy,180,False,0.2,flat,0.0,normal,0
+58,male,asymptomatic,150,270,False,left_ventricular_hypertrophy,111,True,0.8,upsloping,0.0,reversible_defect,3
+45,male,asymptomatic,104,208,False,left_ventricular_hypertrophy,148,True,3.0,flat,0.0,normal,0
+53,female,asymptomatic,130,264,False,left_ventricular_hypertrophy,143,False,0.4,flat,0.0,normal,0
+39,male,non-anginal pain,140,321,False,left_ventricular_hypertrophy,182,False,0.0,upsloping,0.0,normal,0
+68,male,non-anginal pain,180,274,True,left_ventricular_hypertrophy,150,True,1.6,flat,0.0,reversible_defect,3
+52,male,atypical angina,120,325,False,normal,172,False,0.2,upsloping,0.0,normal,0
+44,male,non-anginal pain,140,235,False,left_ventricular_hypertrophy,180,False,0.0,upsloping,0.0,normal,0
+47,male,non-anginal pain,138,257,False,left_ventricular_hypertrophy,156,False,0.0,upsloping,0.0,normal,0
+53,female,asymptomatic,138,234,False,left_ventricular_hypertrophy,160,False,0.0,upsloping,0.0,normal,0
+51,female,non-anginal pain,130,256,False,left_ventricular_hypertrophy,149,False,0.5,upsloping,0.0,normal,0
+66,male,asymptomatic,120,302,False,left_ventricular_hypertrophy,151,False,0.4,flat,0.0,normal,0
+62,female,asymptomatic,160,164,False,left_ventricular_hypertrophy,145,False,6.2,downsloping,3.0,reversible_defect,3
+62,male,non-anginal pain,130,231,False,normal,146,False,1.8,flat,3.0,reversible_defect,0
+44,female,non-anginal pain,108,141,False,normal,175,False,0.6,flat,0.0,normal,0
+63,female,non-anginal pain,135,252,False,left_ventricular_hypertrophy,172,False,0.0,upsloping,0.0,normal,0
+52,male,asymptomatic,128,255,False,normal,161,True,0.0,upsloping,1.0,reversible_defect,1
+59,male,asymptomatic,110,239,False,left_ventricular_hypertrophy,142,True,1.2,flat,1.0,reversible_defect,2
+60,female,asymptomatic,150,258,False,left_ventricular_hypertrophy,157,False,2.6,flat,2.0,reversible_defect,3
+52,male,atypical angina,134,201,False,normal,158,False,0.8,upsloping,1.0,normal,0
+48,male,asymptomatic,122,222,False,left_ventricular_hypertrophy,186,False,0.0,upsloping,0.0,normal,0
+45,male,asymptomatic,115,260,False,left_ventricular_hypertrophy,185,False,0.0,upsloping,0.0,normal,0
+34,male,typical angina,118,182,False,left_ventricular_hypertrophy,174,False,0.0,upsloping,0.0,normal,0
+57,female,asymptomatic,128,303,False,left_ventricular_hypertrophy,159,False,0.0,upsloping,1.0,normal,0
+71,female,non-anginal pain,110,265,True,left_ventricular_hypertrophy,130,False,0.0,upsloping,1.0,normal,0
+49,male,non-anginal pain,120,188,False,normal,139,False,2.0,flat,3.0,reversible_defect,3
+54,male,atypical angina,108,309,False,normal,156,False,0.0,upsloping,0.0,reversible_defect,0
+59,male,asymptomatic,140,177,False,normal,162,True,0.0,upsloping,1.0,reversible_defect,2
+57,male,non-anginal pain,128,229,False,left_ventricular_hypertrophy,150,False,0.4,flat,1.0,reversible_defect,1
+61,male,asymptomatic,120,260,False,normal,140,True,3.6,flat,1.0,reversible_defect,2
+39,male,asymptomatic,118,219,False,normal,140,False,1.2,flat,0.0,reversible_defect,3
+61,female,asymptomatic,145,307,False,left_ventricular_hypertrophy,146,True,1.0,flat,0.0,reversible_defect,1
+56,male,asymptomatic,125,249,True,left_ventricular_hypertrophy,144,True,1.2,flat,1.0,normal,1
+52,male,typical angina,118,186,False,left_ventricular_hypertrophy,190,False,0.0,flat,0.0,fixed_defect,0
+43,female,asymptomatic,132,341,True,left_ventricular_hypertrophy,136,True,3.0,flat,0.0,reversible_defect,2
+62,female,non-anginal pain,130,263,False,normal,97,False,1.2,flat,1.0,reversible_defect,2
+41,male,atypical angina,135,203,False,normal,132,False,0.0,flat,0.0,fixed_defect,0
+58,male,non-anginal pain,140,211,True,left_ventricular_hypertrophy,165,False,0.0,upsloping,0.0,normal,0
+35,female,asymptomatic,138,183,False,normal,182,False,1.4,upsloping,0.0,normal,0
+63,male,asymptomatic,130,330,True,left_ventricular_hypertrophy,132,True,1.8,upsloping,3.0,reversible_defect,3
+65,male,asymptomatic,135,254,False,left_ventricular_hypertrophy,127,False,2.8,flat,1.0,reversible_defect,2
+48,male,asymptomatic,130,256,True,left_ventricular_hypertrophy,150,True,0.0,upsloping,2.0,reversible_defect,3
+63,female,asymptomatic,150,407,False,left_ventricular_hypertrophy,154,False,4.0,flat,3.0,reversible_defect,4
+51,male,non-anginal pain,100,222,False,normal,143,True,1.2,flat,0.0,normal,0
+55,male,asymptomatic,140,217,False,normal,111,True,5.6,downsloping,0.0,reversible_defect,3
+65,male,typical angina,138,282,True,left_ventricular_hypertrophy,174,False,1.4,flat,1.0,normal,1
+45,female,atypical angina,130,234,False,left_ventricular_hypertrophy,175,False,0.6,flat,0.0,normal,0
+56,female,asymptomatic,200,288,True,left_ventricular_hypertrophy,133,True,4.0,downsloping,2.0,reversible_defect,3
+54,male,asymptomatic,110,239,False,normal,126,True,2.8,flat,1.0,reversible_defect,3
+44,male,atypical angina,120,220,False,normal,170,False,0.0,upsloping,0.0,normal,0
+62,female,asymptomatic,124,209,False,normal,163,False,0.0,upsloping,0.0,normal,0
+54,male,non-anginal pain,120,258,False,left_ventricular_hypertrophy,147,False,0.4,flat,0.0,reversible_defect,0
+51,male,non-anginal pain,94,227,False,normal,154,True,0.0,upsloping,1.0,reversible_defect,0
+29,male,atypical angina,130,204,False,left_ventricular_hypertrophy,202,False,0.0,upsloping,0.0,normal,0
+51,male,asymptomatic,140,261,False,left_ventricular_hypertrophy,186,True,0.0,upsloping,0.0,normal,0
+43,female,non-anginal pain,122,213,False,normal,165,False,0.2,flat,0.0,normal,0
+55,female,atypical angina,135,250,False,left_ventricular_hypertrophy,161,False,1.4,flat,0.0,normal,0
+70,male,asymptomatic,145,174,False,normal,125,True,2.6,downsloping,0.0,reversible_defect,4
+62,male,atypical angina,120,281,False,left_ventricular_hypertrophy,103,False,1.4,flat,1.0,reversible_defect,3
+35,male,asymptomatic,120,198,False,normal,130,True,1.6,flat,0.0,reversible_defect,1
+51,male,non-anginal pain,125,245,True,left_ventricular_hypertrophy,166,False,2.4,flat,0.0,normal,0
+59,male,atypical angina,140,221,False,normal,164,True,0.0,upsloping,0.0,normal,0
+59,male,typical angina,170,288,False,left_ventricular_hypertrophy,159,False,0.2,flat,0.0,reversible_defect,1
+52,male,atypical angina,128,205,True,normal,184,False,0.0,upsloping,0.0,normal,0
+64,male,non-anginal pain,125,309,False,normal,131,True,1.8,flat,0.0,reversible_defect,1
+58,male,non-anginal pain,105,240,False,left_ventricular_hypertrophy,154,True,0.6,flat,0.0,reversible_defect,0
+47,male,non-anginal pain,108,243,False,normal,152,False,0.0,upsloping,0.0,normal,1
+57,male,asymptomatic,165,289,True,left_ventricular_hypertrophy,124,False,1.0,flat,3.0,reversible_defect,4
+41,male,non-anginal pain,112,250,False,normal,179,False,0.0,upsloping,0.0,normal,0
+45,male,atypical angina,128,308,False,left_ventricular_hypertrophy,170,False,0.0,upsloping,0.0,normal,0
+60,female,non-anginal pain,102,318,False,normal,160,False,0.0,upsloping,1.0,normal,0
+52,male,typical angina,152,298,True,normal,178,False,1.2,flat,0.0,reversible_defect,0
+42,female,asymptomatic,102,265,False,left_ventricular_hypertrophy,122,False,0.6,flat,0.0,normal,0
+67,female,non-anginal pain,115,564,False,left_ventricular_hypertrophy,160,False,1.6,flat,0.0,reversible_defect,0
+55,male,asymptomatic,160,289,False,left_ventricular_hypertrophy,145,True,0.8,flat,1.0,reversible_defect,4
+64,male,asymptomatic,120,246,False,left_ventricular_hypertrophy,96,True,2.2,downsloping,1.0,normal,3
+70,male,asymptomatic,130,322,False,left_ventricular_hypertrophy,109,False,2.4,flat,3.0,normal,1
+51,male,asymptomatic,140,299,False,normal,173,True,1.6,upsloping,0.0,reversible_defect,1
+58,male,asymptomatic,125,300,False,left_ventricular_hypertrophy,171,False,0.0,upsloping,2.0,reversible_defect,1
+60,male,asymptomatic,140,293,False,left_ventricular_hypertrophy,170,False,1.2,flat,2.0,reversible_defect,2
+68,male,non-anginal pain,118,277,False,normal,151,False,1.0,upsloping,1.0,reversible_defect,0
+46,male,atypical angina,101,197,True,normal,156,False,0.0,upsloping,0.0,reversible_defect,0
+77,male,asymptomatic,125,304,False,left_ventricular_hypertrophy,162,True,0.0,upsloping,3.0,normal,4
+54,female,non-anginal pain,110,214,False,normal,158,False,1.6,flat,0.0,normal,0
+58,female,asymptomatic,100,248,False,left_ventricular_hypertrophy,122,False,1.0,flat,0.0,normal,0
+48,male,non-anginal pain,124,255,True,normal,175,False,0.0,upsloping,2.0,normal,0
+57,male,asymptomatic,132,207,False,normal,168,True,0.0,upsloping,0.0,reversible_defect,0
+54,female,atypical angina,132,288,True,left_ventricular_hypertrophy,159,True,0.0,upsloping,1.0,normal,0
+35,male,asymptomatic,126,282,False,left_ventricular_hypertrophy,156,True,0.0,upsloping,0.0,reversible_defect,1
+45,female,atypical angina,112,160,False,normal,138,False,0.0,flat,0.0,normal,0
+70,male,non-anginal pain,160,269,False,normal,112,True,2.9,flat,1.0,reversible_defect,3
+53,male,asymptomatic,142,226,False,left_ventricular_hypertrophy,111,True,0.0,upsloping,0.0,reversible_defect,0
+59,female,asymptomatic,174,249,False,normal,143,True,0.0,flat,0.0,normal,1
+62,female,asymptomatic,140,394,False,left_ventricular_hypertrophy,157,False,1.2,flat,0.0,normal,0
+64,male,asymptomatic,145,212,False,left_ventricular_hypertrophy,132,False,2.0,flat,2.0,fixed_defect,4
+57,male,asymptomatic,152,274,False,normal,88,True,1.2,flat,1.0,reversible_defect,1
+52,male,asymptomatic,108,233,True,normal,147,False,0.1,upsloping,3.0,reversible_defect,0
+56,male,asymptomatic,132,184,False,left_ventricular_hypertrophy,105,True,2.1,flat,1.0,fixed_defect,1
+43,male,non-anginal pain,130,315,False,normal,162,False,1.9,upsloping,1.0,normal,0
+53,male,non-anginal pain,130,246,True,left_ventricular_hypertrophy,173,False,0.0,upsloping,3.0,normal,0
+48,male,asymptomatic,124,274,False,left_ventricular_hypertrophy,166,False,0.5,flat,0.0,reversible_defect,3
+56,female,asymptomatic,134,409,False,left_ventricular_hypertrophy,150,True,1.9,flat,2.0,reversible_defect,2
+42,male,typical angina,148,244,False,left_ventricular_hypertrophy,178,False,0.8,upsloping,2.0,normal,0
+59,male,typical angina,178,270,False,left_ventricular_hypertrophy,145,False,4.2,downsloping,0.0,reversible_defect,0
+60,female,asymptomatic,158,305,False,left_ventricular_hypertrophy,161,False,0.0,upsloping,0.0,normal,1
+63,female,atypical angina,140,195,False,normal,179,False,0.0,upsloping,2.0,normal,0
+42,male,non-anginal pain,120,240,True,normal,194,False,0.8,downsloping,0.0,reversible_defect,0
+66,male,atypical angina,160,246,False,normal,120,True,0.0,flat,3.0,fixed_defect,2
+54,male,atypical angina,192,283,False,left_ventricular_hypertrophy,195,False,0.0,upsloping,1.0,reversible_defect,1
+69,male,non-anginal pain,140,254,False,left_ventricular_hypertrophy,146,False,2.0,flat,3.0,reversible_defect,2
+50,male,non-anginal pain,129,196,False,normal,163,False,0.0,upsloping,0.0,normal,0
+51,male,asymptomatic,140,298,False,normal,122,True,4.2,flat,3.0,reversible_defect,3
+62,female,asymptomatic,138,294,True,normal,106,False,1.9,flat,3.0,normal,2
+68,female,non-anginal pain,120,211,False,left_ventricular_hypertrophy,115,False,1.5,flat,0.0,normal,0
+67,male,asymptomatic,100,299,False,left_ventricular_hypertrophy,125,True,0.9,flat,2.0,normal,3
+69,male,typical angina,160,234,True,left_ventricular_hypertrophy,131,False,0.1,flat,1.0,normal,0
+45,female,asymptomatic,138,236,False,left_ventricular_hypertrophy,152,True,0.2,flat,0.0,normal,0
+50,female,atypical angina,120,244,False,normal,162,False,1.1,upsloping,0.0,normal,0
+59,male,typical angina,160,273,False,left_ventricular_hypertrophy,125,False,0.0,upsloping,0.0,normal,1
+50,female,asymptomatic,110,254,False,left_ventricular_hypertrophy,159,False,0.0,upsloping,0.0,normal,0
+64,female,asymptomatic,180,325,False,normal,154,True,0.0,upsloping,0.0,normal,0
+57,male,non-anginal pain,150,126,True,normal,173,False,0.2,upsloping,1.0,reversible_defect,0
+64,female,non-anginal pain,140,313,False,normal,133,False,0.2,upsloping,0.0,reversible_defect,0
+43,male,asymptomatic,110,211,False,normal,161,False,0.0,upsloping,0.0,reversible_defect,0
+45,male,asymptomatic,142,309,False,left_ventricular_hypertrophy,147,True,0.0,flat,3.0,reversible_defect,3
+58,male,asymptomatic,128,259,False,left_ventricular_hypertrophy,130,True,3.0,flat,2.0,reversible_defect,3
+50,male,asymptomatic,144,200,False,left_ventricular_hypertrophy,126,True,0.9,flat,0.0,reversible_defect,3
+55,male,atypical angina,130,262,False,normal,155,False,0.0,upsloping,0.0,normal,0
+62,female,asymptomatic,150,244,False,normal,154,True,1.4,flat,0.0,normal,1
+37,female,non-anginal pain,120,215,False,normal,170,False,0.0,upsloping,0.0,normal,0
+38,male,typical angina,120,231,False,normal,182,True,3.8,flat,0.0,reversible_defect,4
+41,male,non-anginal pain,130,214,False,left_ventricular_hypertrophy,168,False,2.0,flat,0.0,normal,0
+66,female,asymptomatic,178,228,True,normal,165,True,1.0,flat,2.0,reversible_defect,3
+52,male,asymptomatic,112,230,False,normal,160,False,0.0,upsloping,1.0,normal,1
+56,male,typical angina,120,193,False,left_ventricular_hypertrophy,162,False,1.9,flat,0.0,reversible_defect,0
+46,female,atypical angina,105,204,False,normal,172,False,0.0,upsloping,0.0,normal,0
+46,female,asymptomatic,138,243,False,left_ventricular_hypertrophy,152,True,0.0,flat,0.0,normal,0
+64,female,asymptomatic,130,303,False,normal,122,False,2.0,flat,2.0,normal,0
+59,male,asymptomatic,138,271,False,left_ventricular_hypertrophy,182,False,0.0,upsloping,0.0,normal,0
+41,female,non-anginal pain,112,268,False,left_ventricular_hypertrophy,172,True,0.0,upsloping,0.0,normal,0
+54,female,non-anginal pain,108,267,False,left_ventricular_hypertrophy,167,False,0.0,upsloping,0.0,normal,0
+39,female,non-anginal pain,94,199,False,normal,179,False,0.0,upsloping,0.0,normal,0
+53,male,asymptomatic,123,282,False,normal,95,True,2.0,flat,2.0,reversible_defect,3
+63,female,asymptomatic,108,269,False,normal,169,True,1.8,flat,2.0,normal,1
+34,female,atypical angina,118,210,False,normal,192,False,0.7,upsloping,0.0,normal,0
+47,male,asymptomatic,112,204,False,normal,143,False,0.1,upsloping,0.0,normal,0
+67,female,non-anginal pain,152,277,False,normal,172,False,0.0,upsloping,1.0,normal,0
+54,male,asymptomatic,110,206,False,left_ventricular_hypertrophy,108,True,0.0,flat,1.0,normal,3
+66,male,asymptomatic,112,212,False,left_ventricular_hypertrophy,132,True,0.1,upsloping,1.0,normal,2
+52,female,non-anginal pain,136,196,False,left_ventricular_hypertrophy,169,False,0.1,flat,0.0,normal,0
+55,female,asymptomatic,180,327,False,abnormal,117,True,3.4,flat,0.0,normal,2
+49,male,non-anginal pain,118,149,False,left_ventricular_hypertrophy,126,False,0.8,upsloping,3.0,normal,1
+74,female,atypical angina,120,269,False,left_ventricular_hypertrophy,121,True,0.2,upsloping,1.0,normal,0
+54,female,non-anginal pain,160,201,False,normal,163,False,0.0,upsloping,1.0,normal,0
+54,male,asymptomatic,122,286,False,left_ventricular_hypertrophy,116,True,3.2,flat,2.0,normal,3
+56,male,asymptomatic,130,283,True,left_ventricular_hypertrophy,103,True,1.6,downsloping,0.0,reversible_defect,2
+46,male,asymptomatic,120,249,False,left_ventricular_hypertrophy,144,False,0.8,upsloping,0.0,reversible_defect,1
+49,female,atypical angina,134,271,False,normal,162,False,0.0,flat,0.0,normal,0
+42,male,atypical angina,120,295,False,normal,162,False,0.0,upsloping,0.0,normal,0
+41,male,atypical angina,110,235,False,normal,153,False,0.0,upsloping,0.0,normal,0
+41,female,atypical angina,126,306,False,normal,163,False,0.0,upsloping,0.0,normal,0
+49,female,asymptomatic,130,269,False,normal,163,False,0.0,upsloping,0.0,normal,0
+61,male,typical angina,134,234,False,normal,145,False,2.6,flat,2.0,normal,2
+60,female,non-anginal pain,120,178,True,normal,96,False,0.0,upsloping,0.0,normal,0
+67,male,asymptomatic,120,237,False,normal,71,False,1.0,flat,0.0,normal,2
+58,male,asymptomatic,100,234,False,normal,156,False,0.1,upsloping,1.0,reversible_defect,2
+47,male,asymptomatic,110,275,False,left_ventricular_hypertrophy,118,True,1.0,flat,1.0,normal,1
+52,male,asymptomatic,125,212,False,normal,168,False,1.0,upsloping,2.0,reversible_defect,3
+62,male,atypical angina,128,208,True,left_ventricular_hypertrophy,140,False,0.0,upsloping,0.0,normal,0
+57,male,asymptomatic,110,201,False,normal,126,True,1.5,flat,0.0,fixed_defect,0
+58,male,asymptomatic,146,218,False,normal,105,False,2.0,flat,1.0,reversible_defect,1
+64,male,asymptomatic,128,263,False,normal,105,True,0.2,flat,1.0,reversible_defect,0
+51,female,non-anginal pain,120,295,False,left_ventricular_hypertrophy,157,False,0.6,upsloping,0.0,normal,0
+43,male,asymptomatic,115,303,False,normal,181,False,1.2,flat,0.0,normal,0
+42,female,non-anginal pain,120,209,False,normal,173,False,0.0,flat,0.0,normal,0
+67,female,asymptomatic,106,223,False,normal,142,False,0.3,upsloping,2.0,normal,0
+76,female,non-anginal pain,140,197,False,abnormal,116,False,1.1,flat,0.0,normal,0
+70,male,atypical angina,156,245,False,left_ventricular_hypertrophy,143,False,0.0,upsloping,0.0,normal,0
+57,male,atypical angina,124,261,False,normal,141,False,0.3,upsloping,0.0,reversible_defect,1
+44,female,non-anginal pain,118,242,False,normal,149,False,0.3,flat,1.0,normal,0
+58,female,atypical angina,136,319,True,left_ventricular_hypertrophy,152,False,0.0,upsloping,2.0,normal,3
+60,female,typical angina,150,240,False,normal,171,False,0.9,upsloping,0.0,normal,0
+44,male,non-anginal pain,120,226,False,normal,169,False,0.0,upsloping,0.0,normal,0
+61,male,asymptomatic,138,166,False,left_ventricular_hypertrophy,125,True,3.6,flat,1.0,normal,4
+42,male,asymptomatic,136,315,False,normal,125,True,1.8,flat,0.0,fixed_defect,2
+59,male,non-anginal pain,126,218,True,normal,134,False,2.2,flat,1.0,fixed_defect,2
+40,male,asymptomatic,152,223,False,normal,181,False,0.0,upsloping,0.0,reversible_defect,1
+42,male,non-anginal pain,130,180,False,normal,150,False,0.0,upsloping,0.0,normal,0
+61,male,asymptomatic,140,207,False,left_ventricular_hypertrophy,138,True,1.9,upsloping,1.0,reversible_defect,1
+66,male,asymptomatic,160,228,False,left_ventricular_hypertrophy,138,False,2.3,upsloping,0.0,fixed_defect,0
+46,male,asymptomatic,140,311,False,normal,120,True,1.8,flat,2.0,reversible_defect,2
+71,female,asymptomatic,112,149,False,normal,125,False,1.6,flat,0.0,normal,0
+59,male,typical angina,134,204,False,normal,162,False,0.8,upsloping,2.0,normal,1
+64,male,typical angina,170,227,False,left_ventricular_hypertrophy,155,False,0.6,flat,0.0,reversible_defect,0
+66,female,non-anginal pain,146,278,False,left_ventricular_hypertrophy,152,False,0.0,flat,1.0,normal,0
+39,female,non-anginal pain,138,220,False,normal,152,False,0.0,flat,0.0,normal,0
+57,male,atypical angina,154,232,False,left_ventricular_hypertrophy,164,False,0.0,upsloping,1.0,normal,1
+58,female,asymptomatic,130,197,False,normal,131,False,0.6,flat,0.0,normal,0
+57,male,asymptomatic,110,335,False,normal,143,True,3.0,flat,1.0,reversible_defect,2
+47,male,non-anginal pain,130,253,False,normal,179,False,0.0,upsloping,0.0,normal,0
+55,female,asymptomatic,128,205,False,abnormal,130,True,2.0,flat,1.0,reversible_defect,3
+35,male,atypical angina,122,192,False,normal,174,False,0.0,upsloping,0.0,normal,0
+61,male,asymptomatic,148,203,False,normal,161,False,0.0,upsloping,1.0,reversible_defect,2
+58,male,asymptomatic,114,318,False,abnormal,140,False,4.4,downsloping,3.0,fixed_defect,4
+58,female,asymptomatic,170,225,True,left_ventricular_hypertrophy,146,True,2.8,flat,2.0,fixed_defect,2
+56,male,atypical angina,130,221,False,left_ventricular_hypertrophy,163,False,0.0,upsloping,0.0,reversible_defect,0
+56,male,atypical angina,120,240,False,normal,169,False,0.0,downsloping,0.0,normal,0
+67,male,non-anginal pain,152,212,False,left_ventricular_hypertrophy,150,False,0.8,flat,0.0,reversible_defect,1
+55,female,atypical angina,132,342,False,normal,166,False,1.2,upsloping,0.0,normal,0
+44,male,asymptomatic,120,169,False,normal,144,True,2.8,downsloping,0.0,fixed_defect,2
+63,male,asymptomatic,140,187,False,left_ventricular_hypertrophy,144,True,4.0,upsloping,2.0,reversible_defect,2
+63,female,asymptomatic,124,197,False,normal,136,True,0.0,flat,0.0,normal,1
+41,male,atypical angina,120,157,False,normal,182,False,0.0,upsloping,0.0,normal,0
+59,male,asymptomatic,164,176,True,left_ventricular_hypertrophy,90,False,1.0,flat,2.0,fixed_defect,3
+57,female,asymptomatic,140,241,False,normal,123,True,0.2,flat,0.0,reversible_defect,1
+45,male,typical angina,110,264,False,normal,132,False,1.2,flat,0.0,reversible_defect,1
+68,male,asymptomatic,144,193,True,normal,141,False,3.4,flat,2.0,reversible_defect,2
+57,male,asymptomatic,130,131,False,normal,115,True,1.2,flat,1.0,reversible_defect,3
+57,female,atypical angina,130,236,False,left_ventricular_hypertrophy,174,False,0.0,flat,1.0,normal,1
