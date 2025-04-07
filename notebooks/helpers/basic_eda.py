@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.metrics import f1_score, precision_score, recall_score
 def eda(df, name, id:str = None):
     print('='*10)
     print('.:STARTING EDA:.')
@@ -36,8 +37,29 @@ def separate_target(df: pd.DataFrame,
     characteristics = df.drop(target_column, axis=1)
     target = df[target_column]
     return characteristics, target
-def evaluate_model(model, **kwargs):
-    pass
+
+def evaluate_model(**kwargs):
+    model = kwargs.get('model', None)
+    if model is None:
+        raise ValueError("Model not provided")
+    print(f'.:EVALUATING MODEL: {kwargs["name"]}:.')
+    print('='*10)
+    print('Predicciones')
+    print('='*10)
+    y_pred = model.predict(kwargs['X_validation'])    
+    ypred_unique = set(y_pred)
+    for i in ypred_unique:
+        print(f'Predicción clase {i}: {sum(y_pred == i)}')
+    print('Métricas')
+    print('='*10)
+    print(f'F1 Score: {f1_score(kwargs["Y_validation"], y_pred, average="weighted")}')
+    print(f'F1 Score (macro): {f1_score(kwargs["Y_validation"], y_pred, average="macro")}')
+    print(f'Precision: {precision_score(kwargs["Y_validation"], y_pred, average="weighted", zero_division=0)}')
+    print(f'Precision (macro): {precision_score(kwargs["Y_validation"], y_pred, average="macro", zero_division=0)}')
+    print(f'Recall: {recall_score(kwargs["Y_validation"], y_pred, average="weighted")}')
+    print(f'Recall (macro): {recall_score(kwargs["Y_validation"], y_pred, average="macro")}')
+    print(f'Score: {model.score(kwargs["X_validation"], kwargs["Y_validation"])}')
+    return y_pred
 if __name__ == '__main__':
     
     raw_patients = pd.read_csv('C:/Users/danie/Desktop/master/Data_Science_fundamentals/heart_disease_proyect/data/raw/raw_medical_records.csv')
