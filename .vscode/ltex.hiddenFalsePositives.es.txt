@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEn comunidades rurales, como las estudiadas en la costa ecuatoriana, el 70% de los adultos mayores de 40 años presentan un estado de salud cardiovascular deficiente, exacerbado por factores como hipertensión y dietas inadecuadas Brutto2020.\\E$"}
